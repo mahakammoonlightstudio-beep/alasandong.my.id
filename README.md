@@ -107,8 +107,8 @@ Situs ini **100% statis** — tidak butuh build step atau dependensi.
 
 ```bash
 # Klon repositori
-git clone https://github.com/<user>/alasandong.git
-cd alasandong
+git clone https://github.com/mahakammoonlightstudio-beep/alasandong.my.id.git
+cd alasandong.my.id
 
 # Jalankan server statis apa pun, contoh:
 python -m http.server 8000
