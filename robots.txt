@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Blok utilitas / aset non-konten (opsional, hemat crawl budget)
+Disallow: /sw.js
+Disallow: /manifest.json
+
+# Izinkan bot mesin telusur utama tanpa pembatasan tambahan
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://alasandong.my.id/sitemap.xml
