@@ -1,0 +1,15 @@
+Alasandong: mesin alasan kreatif yang bisa menghasilkan hampir 400.000 variasi kombinasi alasan.
+
+Ini proyek eksperimen favorit saya - dan pembuktian bahwa proyek "kecil" pun bisa dikerjakan dengan standar tinggi:
+
+- Murni vanilla JavaScript, tanpa framework, tanpa CDN
+- Kartu alasan dirender ke gambar via canvas, siap dibagikan
+- PWA penuh: bisa dipasang, jalan offline, terindeks SEO dengan schema markup
+- Domain sendiri: alasandong.my.id
+
+Terakhir, desainnya saya rombak dengan tema baru dan transisi tema yang halus.
+
+Coba mainkan: https://alasandong.my.id/
+Kode: https://github.com/mahakammoonlightstudio-beep/alasandong.my.id
+
+#JavaScript #PWA #CreativeCoding #WebDevelopment #IndieHacking
