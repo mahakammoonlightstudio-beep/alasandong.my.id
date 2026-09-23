@@ -8,6 +8,8 @@
 🔗 **Live:** https://alasandong.my.id/
 🛠️ **Studio:** [Mahakam Moonlight Studio](https://mahakam-moonlight-studio.page.gd/)
 
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue) ![PWA](https://img.shields.io/badge/PWA-ready-5a0fc8) ![Bilingual](https://img.shields.io/badge/i18n-ID%20%2F%20EN-green)
+
 ---
 
 ## ✨ Fitur
