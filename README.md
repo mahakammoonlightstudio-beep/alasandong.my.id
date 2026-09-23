@@ -228,9 +228,7 @@ Alasandong gratis selamanya. Jika terbantu (atau ngakak), dukung pengembang lewa
 
 ## 📄 Lisensi
 
-Hak cipta © 2026 **Mahakam Moonlight Studio**. Seluruh hak dilindungi.
-
-Konten alasan, kode, dan aset merupakan milik Mahakam Moonlight Studio. Hubungi kami untuk izin penggunaan ulang.
+Konten alasan, kode, dan aset dilisensikan di bawah [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Bebas digunakan dan dimodifikasi selama mencantumkan kredit kepada Mahakam Moonlight Studio.
 
 ---
 
